@@ -3,6 +3,7 @@
 Welcome to Sundown Studio – an animated website project that brings creativity to life through the magic of GSAP, Locomotive Scroll, and CSS animations.
 
 ## Overview
+Try it : https://sundown-studio-bbhardwaj.netlify.app/
 
 Sundown Studio is a showcase of cutting-edge web design techniques and animations, aimed at delivering an immersive user experience. By leveraging GSAP (GreenSock Animation Platform), Locomotive Scroll, and CSS animations, this project demonstrates the power of modern web development tools to create captivating websites.
 
